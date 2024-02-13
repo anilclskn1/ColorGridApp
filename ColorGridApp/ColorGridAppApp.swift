@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+//The code marks ColorGridApp with @main, making it the entry point of the program — the code the app starts running first.
 @main
 struct ColorGridAppApp: App {
     var body: some Scene {
